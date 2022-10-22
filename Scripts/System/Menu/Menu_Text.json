@@ -118,7 +118,7 @@
 	"MENU_TEXT_OPTIONS_EXT_HEADLINE": "CONFIGURACIÓN AVANZADA",
 	"MENU_TEXT_OPTIONS_EXT_FFT": "Ondas de agua",
 	"MENU_TEXT_OPTIONS_EXT_FFT_COMMENT": "Activación/desactivación las ondas de agua.",
-	"MENU_TEXT_OPTIONS_EXT_WATERFADE": "Decolorar del agua",
+	"MENU_TEXT_OPTIONS_EXT_WATERFADE": "Decolorar agua",
 	"MENU_TEXT_OPTIONS_EXT_WATERFADE_COMMENT": "Activación/desactivación el decoloramiento de agua.",
 	"MENU_TEXT_OPTIONS_EXT_OBJWIND": "Viento",
 	"MENU_TEXT_OPTIONS_EXT_OBJWIND_COMMENT": "Activar/desactivar el viento sobre los objetos.",
