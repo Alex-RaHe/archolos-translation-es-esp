@@ -385,7 +385,7 @@
   "PRINT_MissingItem": "No tengo el objeto adecuado: ",
   "PRINT_AnotherUser": "Está en uso.",
   "PRINT_NoPicklockTalent": "No tengo la habilidad.",
-  "PRINT_NOTHINGTOGET": "Nada que coger ahí...",
+  "PRINT_NOTHINGTOGET": "Nada que coger...",
   "PRINT_NOTHINGTOGET02": "Nada por ahí...",
   "PRINT_NOTHINGTOGET03": "Nada que saquear...",
   "PRINT_BlessSTR": "Innos te concede: Fuerza +",
