@@ -283,7 +283,7 @@
   "PRINT_Kosten": ". Coste: ",
   "PRINT_LP": " PA",
   "PRINT_LP2": " PA, ",
-  "PRINT_SZ": " Oro)",
+  "PRINT_SZ": " Oro",
   "PRINT_NotEnoughLP": "¡No tienes suficientes puntos de aprendizaje!",
   "PRINT_NoLearnOverPersonalMAX": "El máximo de este maestro es ",
   "PRINT_LearnSTR": "Fuerza + ",
